@@ -1,12 +1,14 @@
 # Dynamic_network_poisson
-Asai and So (2024) Journal of Data Science
+Asai and So (2024), "Dynamic Network Poisson Autoregression with Application to
+COVID-19 Count Data", Journal of Data Science
+Matlab codes
 
 The data in the analysis is provided by:
 https://www.sciencedirect.com/science/article/pii/S1201971220324541?via%3Dihub
 
-confirmed1.mat: mY0 (T times 51 matrix)
+confirmed1.mat: mY0 (T times 51 matrix, confirmed cases of covid-19 by state)
 
-linkavar1.mat: mD0 (T times 51*51 matrix)
+linkavar1.mat: mD0 (T times 51*51 matrix, dynamic network among states)
 
 %%%%%%%% Section 3
 
